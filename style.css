@@ -1,0 +1,40 @@
+.parent {
+    margin: 0 auto;
+    width: 84%;
+    background-color: rgb(96, 221, 92);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+  }
+  
+  .child {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    
+
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+  }
+  
+  .child1 {
+    background-color: pink;
+  }
+  
+  .child2 {
+    background-color: yellow;
+  }
+  
+  .child3 {
+    background-color: rgb(180, 99, 180);
+  }
+  
+  .child4 {
+    background-color: white;
+  }
